@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantiew00
 - 👀 I’m interested in Programming skill 
-- 🌱 I’m currently learning introduction of computer science, CS50
+- 🌱 I’m currently learning mobilr programming, Flutter
 - 💞️ I’m looking to collaborate on how to gain new skils in other programming languages
 - 📫 You can reach me by email me btwk5566@gmail.com
 
